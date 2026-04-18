@@ -1,5 +1,5 @@
 # Mac-Sea-Dragon-Pack
-![MSDP thumbnail1](https://github.com/Mac33299/Mac-Sea-Dragon-Pack/assets/110599229/74851047-40af-4f10-a8b6-124f6358a107)
+<img width="1920" height="1080" alt="MSDP logo new" src="https://github.com/user-attachments/assets/1faef01b-9a58-4647-b3b0-aa5bbde262b7" />
 A SFS Mods that aims to add the Sea Dragon Launch vehicle 
 
 Recommend to be used with BR-Apollo
